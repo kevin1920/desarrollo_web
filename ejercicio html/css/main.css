@@ -1,0 +1,42 @@
+
+body{
+    background-color: darkgray;
+}
+
+
+
+
+h1{
+    color:blue;
+}
+
+p {
+    font-size: small;
+    font-family: 'Zhi Mang Xing'
+}
+
+ul  li{
+    /*float: right;*/
+    display: inline-block;
+    align-content: center;
+    padding: 15px;
+
+  }
+  ul li a{
+      color: crimson;
+      text-decoration: none;
+  }
+
+  a:hover{
+      padding: 20px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      color: darkblue;
+      border-radius: 10px 0px;
+      background-color: blue;
+  }
+
+  ul{
+      padding: 20px;
+      text-align: center;
+      
+  }
